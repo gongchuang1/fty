@@ -1,6 +1,6 @@
 {
   "spider": "./fty.jar;md5;87c10cb2cda0a4cca965373ec8d02c7b",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "wallpaper": "http://共创天下.top/深色壁纸/api.php",
   "sites": [
     {
       "key": "豆豆",
@@ -633,9 +633,9 @@
       "url": "Demo"
     },
     {
-      "name": "神秘的哥哥们",
+      "name": "共创天下",
       "type": 1,
-      "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
+      "url": "http://api.888484.xyz/共创天下/super.php?v=",
       "ext": {
         "flag": [
           "qq",
